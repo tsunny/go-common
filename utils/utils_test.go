@@ -2,8 +2,8 @@ package utils
 
 import (
 	"fmt"
-	"testing"
 	"github.com/dgrijalva/jwt-go"
+	"testing"
 )
 
 func TestParseClaims(t *testing.T) {
